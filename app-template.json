@@ -1,0 +1,18 @@
+{
+    "name": "Intercom",
+    "type": "cloud_nodejs",
+    "repoUrl": "https://github.com/feedhenry/fh-connector-intercom-cloud.git",
+    "repoBranch": "refs/heads/master",
+    "image": "public/img/cloud_plugins/intercom.png",
+    "category": "SaaS Connectors",
+    "configuration": [
+        {
+            "desc": "Your Intercom.io API Key",
+            "varName": "INTERCOM_API_KEY"
+        },
+        {
+            "desc": "Your Intercom.io APP Key",
+            "varName": "INTERCOM_APP_KEY"
+        }
+    ]
+}
