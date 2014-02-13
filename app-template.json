@@ -1,4 +1,5 @@
 {
+    "id": "intercom-cloud",
     "name": "Intercom",
     "type": "cloud_nodejs",
     "repoUrl": "https://github.com/feedhenry/fh-connector-intercom-cloud.git",
