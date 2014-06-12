@@ -1,10 +1,10 @@
 {
-  "name": "fh-connector-intercom-cloud",
+  "name": "fh-service-intercom-cloud",
   "version": "0.2.0",
   "dependencies": {
     "node-intercom": "0.0.4",
     "express": "3.3.4",
-    "fh-mbaas-api": "~3.1.0",
+    "fh-mbaas-api": "~4.0.0",
     "request": "2.34.0",
     "body-parser": "~1.0.2",
     "cors": "~2.2.0"
