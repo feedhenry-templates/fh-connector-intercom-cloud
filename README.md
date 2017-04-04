@@ -1,6 +1,7 @@
 FORMAT: 1A
 
 # FeedHenry Intercom Connector
+[![Dependency Status](https://img.shields.io/david/feedhenry-templates/fh-connector-intercom-cloud.svg?style=flat-square)](https://david-dm.org/feedhenry-templates/fh-connector-intercom-cloud)
 
 The FeedHenry Intercom Connector. For more information on Intercom see: [https://github.com/silentrob/node-intercom](https://github.com/silentrob/node-intercom).
 
